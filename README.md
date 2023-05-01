@@ -1,3 +1,3 @@
 # pyCamp
 
-This is a python and Django training project with a friend.
+This is a Python and Django training project with a friend.
